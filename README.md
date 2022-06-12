@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Chinmai Dandekar
-- 👀 A Data Science Student
+- 👋 Hi, My name is Chinmai Dandekar.
+- 👀 A Data Science Student.
 - 🌱 I’m currently working on projects related to ML and Python.
-- 💞️ I’m looking to collaborate on PYTHON and DATA SCIENCE PROJECT
+- 💞️ I’m looking to collaborate on PYTHON and DATA SCIENCE PROJECTS.
 - 📫 my email-id : chinmaidandekar@gmail.com
 
 <!---
