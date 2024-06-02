@@ -1,7 +1,7 @@
 - 👋 Hi, My name is Chinmai Dandekar.
-- 👀 A Data Science Student.
-- 🌱 I’m currently working on projects related to ML and Python.
-- 💞️ I’m looking to collaborate on PYTHON and DATA SCIENCE PROJECTS.
+- 👀 A Data Science Enthusiast.
+- 🌱 I’m currently working as an Data Analysist in Finance Domain.
+- 💞️ I also have a youtube channel named : DCS Codes
 - 📫 my email-id : chinmaidandekar@gmail.com
 
 <h3 align="left">Connect with me:</h3>
