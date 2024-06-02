@@ -8,7 +8,7 @@
 <a href="https://www.instagram.com/chinmai.dandekar10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Chinmai's INSTA" height="30" width="40" /></a>
 
 </a>
-<a href="https://www.linkedin.com/in/chinmai-dandekar-9164b7167"><img align="left" src="https://t4.ftcdn.net/jpg/03/96/56/19/360_F_396561934_t1OwjMZHrVY211bHA5uUEAix0F1SyLci.jpg" alt-"Chinmai's LinkedIN" width="22px" height="30" width="40"/></a>
+<a href="https://www.linkedin.com/in/chinmai-dandekar-9164b7167"><img align="left" src="[https://t4.ftcdn.net/jpg/03/96/56/19/360_F_396561934_t1OwjMZHrVY211bHA5uUEAix0F1SyLci.jpg](https://github.com/Chinmai-D10/Chinmai-D10/blob/main/500PX%2020.png)" alt-"Chinmai's LinkedIN" width="22px" height="30" width="40"/></a>
 
 <!---
 Chinmai-D10/Chinmai-D10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
